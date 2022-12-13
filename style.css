@@ -1,0 +1,28 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url(hacker.jpg);
+}
+
+#div{
+    background-color: wheat;
+}
+
+#div1{
+    background-color: yellow;
+}
+
+#div2 {
+    background-color: lightblue;
+}
+
+#div3{
+    text-align: center;
+    color: lightgreen;
+}
+
+#div4{
+    font-size: 100px;
+    color: blueviolet;
+}
+
